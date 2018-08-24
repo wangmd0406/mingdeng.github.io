@@ -1,0 +1,4 @@
+Tips:
+没有www，表示解析到http://mingdeng.club
+请求流程为：
+http://www.mingdeng.club --> http://w1502713507.gz01.bdysite.com --> http://mingdeng.club
